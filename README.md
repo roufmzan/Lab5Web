@@ -1,13 +1,13 @@
-# Nama : Felix Amon Sitinjak
-# NIM : 312410063
+# Nama : RO'UF MUHAMMAD FAUZAN
+# NIM : 312410157
 # Kelas : TI.24.A1
 
 **Hasil Output**
 
-<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/1ce91ee7-8624-45e7-8797-8bf114fd8d00" />
+<img width="1440" height="900" alt="Jepretan Layar 2025-10-20 pukul 21 29 55" src="https://github.com/user-attachments/assets/d354e716-3703-437d-8496-febfd4cd67bb" />
 
 **Code**
-```
+``` python
 <!DOCTYPE html>
 <html lang="en">
 <head>
